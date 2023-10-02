@@ -33,7 +33,7 @@ To get started with the Student Registry Program, follow these steps:
 3. Run the program:
 
    ```bash
-./student_registry
+   ./student_registry
 
 ## Usage
 
